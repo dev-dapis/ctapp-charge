@@ -5,3 +5,4 @@ val: /content/ctapp-charge/data/images/val/  # val images (relative to 'path') 1
 # Classes
 nc: 4  # number of classes
 names: ['charge', 'charge_truck', 'person', 'truck']  # class names
+
