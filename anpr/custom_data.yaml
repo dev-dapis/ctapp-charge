@@ -1,6 +1,6 @@
-path: /content/anpr/data  # dataset root dir
-train: /content/anpr/data/images/train/  # train images (relative to 'path') 128 images
-val: /content/anpr/data/images/val/  # val images (relative to 'path') 128 images
+path: /content/ctapp-charge/anpr/data  # dataset root dir
+train: /content/ctapp-charge/anpr/data/images/train/  # train images (relative to 'path') 128 images
+val: /content/ctapp-charge/anpr/data/images/val/  # val images (relative to 'path') 128 images
 
 # Classes
 nc: 1  # number of classes
